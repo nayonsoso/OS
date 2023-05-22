@@ -1,4 +1,4 @@
-package pc_Infinite;
+package PC_infinite;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
